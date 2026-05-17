@@ -1,6 +1,6 @@
 # To-Do List Application in C
 
-A simple console-based To-Do List Application developed in C language during my summer internship.  
+A simple console-based To-Do List Application developed in C language.
 It allows users to add, view, and delete tasks easily through a menu-driven interface.
 
 ---
