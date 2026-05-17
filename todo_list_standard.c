@@ -1,4 +1,4 @@
-//to-do list mini project using c programming language by DISHA_SHAH
+
 #include <stdio.h>
 #include <string.h>
 #define MAX_TASKS 50
